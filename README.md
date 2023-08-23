@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" />
+  <img src="https://imgur.com/gallery/mARr6" alt="Transparent Cat Sticker" />
 </p>
 
 <!--
