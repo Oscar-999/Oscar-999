@@ -1,10 +1,14 @@
-### Hi I'm Oscar👋
+### Hi I'm Oscar👋  
 
 contact me @oscarvac74@gmail.com
 <!--
 **Oscar-999/Oscar-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<p align="left">
+  <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" />
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
