@@ -3,8 +3,8 @@
 **`SoftwareDeveloper `**
 
 
-I'm a 19-year-old, passionate software developer, and I'm currently on the lookout for a job that aligns with my enthusiasm for exploration and continuous self-improvement. As someone who revels in pushing the boundaries of my abilities, I find immense joy in taking on new challenges. Beyond my love for learning and coding, I'm proud to be a part of the Hispanic community, recognizing the underrepresentation of individuals like me in the tech field. I believe that diversity brings fresh perspectives and enriches the industry, and I'm excited to contribute my unique viewpoint. With each line of code I write and every project I embark upon, I'm not only advancing my own journey but also hoping to inspire others from diverse backgrounds to join the world of technology and innovation.
- 
+I'm a 19-year-old software developer on the hunt for a job that allows me to delve into my passion for exploration and pushing the boundaries of my abilities. Embracing challenges and constantly expanding my skill set is what I thrive on. The world of programming never ceases to amaze me, and I'm always eager to absorb new knowledge and techniques. As I embark on this journey, I'm excited to find opportunities that not only harness my coding skills but also fuel my unending desire to learn and grow.
+
 </div>
     <p style="text-align: center;"><a href="mailto:oscarvac74@gmail.com">❗Contact me: oscarvac74@gmail.com</a></p>
 
