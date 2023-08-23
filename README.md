@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ### 📊 Stats
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-999&theme=dark&show_icons=true)
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-999&theme=dark&show_icons=true)
 
 #
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscar-999&show_icons=true&locale=en" alt="oscar-999" /></p>
