@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Transparent Cat Sticker](https://i.imgur.com/pIIskoy.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
