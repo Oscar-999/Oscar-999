@@ -2,8 +2,7 @@
   <h3 style="flex: 1;"> ✈️ Hi, I'm Oscar! 👋   <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="55" style="margin-left: 20px;"> </h3>
  
 </div>
-
-<p><a href="mailto:oscarvac74@gmail.com">Contact me: oscarvac74@gmail.com</a></p>
+    <p style="text-align: center;"><a href="mailto:oscarvac74@gmail.com">❗Contact me: oscarvac74@gmail.com</a></p>
 
 <!--
 Rest of your README content, such as your languages and tools section.
