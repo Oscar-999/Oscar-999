@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Stats
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-999&theme=dark&show_icons=true)
 
-
+#
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscar-999&show_icons=true&locale=en" alt="oscar-999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscar-999&" alt="oscar-999" /></p>
