@@ -1,11 +1,10 @@
-<h3 align="center">Hi, I'm Oscar! 👋</h3>
-<p align="center">
-  <a href="mailto:oscarvac74@gmail.com">Contact me: oscarvac74@gmail.com</a>
-</p>
+<div style="display: flex; align-items: center;">
+  <h3 style="flex: 1;">Hi, I'm Oscar! 👋</h3>
+  <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="100" style="margin-left: 20px;">
+</div>
 
-<p align="center">
-  <img src="https://imgur.com/gallery/mARr6" alt="Transparent Cat Sticker" />
-</p>
+<p><a href="mailto:oscarvac74@gmail.com">Contact me: oscarvac74@gmail.com</a></p>
+
 
 <!--
 **Oscar-999/Oscar-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
