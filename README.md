@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
-  <h3 style="flex: 1;">Hi, I'm Oscar! 👋</h3>
-  <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="100" style="margin-left: 20px;">
+  <h3 style="flex: 1;">Hi, I'm Oscar! 👋   <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="55" style="margin-left: 20px;"> </h3>
+ 
 </div>
 
 <p><a href="mailto:oscarvac74@gmail.com">Contact me: oscarvac74@gmail.com</a></p>
