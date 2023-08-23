@@ -1,6 +1,6 @@
 #  Hi I'm Oscar👋  <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="55" style="margin-left: 20px;">
 
-**`SoftwareDev `**
+**`SoftwareDeveloper `**
  
 </div>
     <p style="text-align: center;"><a href="mailto:oscarvac74@gmail.com">❗Contact me: oscarvac74@gmail.com</a></p>
