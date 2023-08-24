@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-999&theme=dark&show_icons=true)
 - ⚡ Fun fact: ...
 ![Transparent Cat Sticker](https://i.imgur.com/pIIskoy.gif)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscar-999&show_icons=true&locale=en&layout=compact" alt="oscar-999" /></p>
@@ -42,9 +43,8 @@ Here are some ideas to get you started:
 
 
 ### 📊 Stats
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-999&theme=dark&show_icons=true)
-#
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Oscar-999&theme=dark)](https://git.io/streak-stats)
+#
 
 
 
