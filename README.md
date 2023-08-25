@@ -7,7 +7,10 @@ I'm a 19-year-old software developer on the hunt for a job that allows me to del
 
 </div>
     <p style="text-align: center;"><a href="mailto:oscarvac74@gmail.com">❗Contact me: oscarvac74@gmail.com</a></p>
-     <p style="text-align: center;"><a href="oscaralcantar.com">❗Checkout my portfolio</a></p>
+    <center>
+  <p><a href="https://oscaralcantar.com">❗Checkout my Portfolio</a></p>
+</center>
+
 
 <!--
   <h1 style="flex: 1;"> ✈️ Hi, I'm Oscar! 👋   <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="55" style="margin-left: 25px;"> </h1>
