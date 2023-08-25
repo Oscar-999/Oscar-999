@@ -10,7 +10,9 @@ I'm a 19-year-old software developer on the hunt for a job that allows me to del
     <center>
   <p><a href="https://oscaralcantar.com">❗Checkout my Portfolio</a></p>
 </center>
-
+<div style="text-align:center">
+  <a href="your_link_here">Your Link Text</a>
+</div>
 
 <!--
   <h1 style="flex: 1;"> ✈️ Hi, I'm Oscar! 👋   <img src="https://i.imgur.com/pIIskoy.gif" alt="Transparent Cat Sticker" width="55" style="margin-left: 25px;"> </h1>
