@@ -4,6 +4,7 @@
 
 
 I'm a 19-year-old software developer on the hunt for a job that allows me to delve into my passion for exploration and pushing the boundaries of my abilities. Embracing challenges and constantly expanding my skill set is what I thrive on. The world of programming never ceases to amaze me, and I'm always eager to absorb new knowledge and techniques. As I embark on this journey, I'm excited to find opportunities that not only harness my coding skills but also fuel my unending desire to learn and grow.
+#
 
 </div>
     <p style="text-align: center;"><a href="mailto:oscarvac74@gmail.com">❗Contact me: oscarvac74@gmail.com</a></p>
