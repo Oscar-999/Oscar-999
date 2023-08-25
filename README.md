@@ -12,7 +12,7 @@ I'm a 19-year-old software developer on the hunt for a job that allows me to del
   <p><a href="https://oscaralcantar.com">❗Checkout my Portfolio</a></p>
 </center>
 <div style="text-align:center">
-  <a href="your_link_here">Your Link Text</a>
+  <a href="(https://oscaralcantar.com)">Your Link Text</a>
 </div>
 
 <!--
